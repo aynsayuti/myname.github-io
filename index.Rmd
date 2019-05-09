@@ -5,7 +5,7 @@ title: "Ayn Sayuti"
 <link rel="stylesheet" href="styles.css" type="text/css">
     
     
-<img src="images/profile1.jpeg" style="width:20%; border:10px solid" align="center">
+<img src="images/profile1.jpg" style="width:20%; border:10px solid" align="center">
     
       **Nurul 'Ayn Ahmad Sayuti**
       **Senior Lecturer**
